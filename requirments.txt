@@ -1,0 +1,4 @@
+pandas
+numphy 
+langchain
+transformer 
